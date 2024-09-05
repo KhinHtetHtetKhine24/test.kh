@@ -1,5 +1,3 @@
-This is the first file.
+# This is the first file.
 
-This is changed one.
-change two
-change three
+This is change three
